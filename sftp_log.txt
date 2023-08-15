@@ -1,0 +1,200 @@
+2023-08-10 00:49:25,838 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 00:49:26,463 - INFO - Authentication (password) successful!
+2023-08-10 00:49:26,472 - INFO - Connected Successfully to SFTP Server
+2023-08-10 00:49:26,649 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 00:51:21,489 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 00:51:21,965 - INFO - Authentication (password) successful!
+2023-08-10 00:51:21,965 - INFO - Connected Successfully to SFTP Server
+2023-08-10 00:51:22,122 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 01:27:17,393 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 01:27:18,051 - INFO - Authentication (password) successful!
+2023-08-10 01:28:19,704 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 01:28:20,117 - INFO - Authentication (password) successful!
+2023-08-10 01:28:20,124 - INFO - Connected Successfully to SFTP Server
+2023-08-10 01:28:20,336 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 01:31:23,709 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 01:31:24,114 - INFO - Authentication (password) successful!
+2023-08-10 01:31:24,131 - INFO - Connected Successfully to SFTP Server
+2023-08-10 01:31:24,333 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 01:37:49,257 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 01:37:49,828 - INFO - Authentication (password) successful!
+2023-08-10 01:37:50,073 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 01:37:50,073 - INFO - Connected Successfully to SFTP Server
+2023-08-10 01:39:06,247 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 01:39:06,655 - INFO - Authentication (password) successful!
+2023-08-10 01:39:06,851 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 01:39:06,861 - INFO - Connected Successfully to SFTP Server
+2023-08-10 15:10:48,349 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 15:10:48,746 - INFO - Authentication (password) successful!
+2023-08-10 15:10:48,760 - INFO - Connected Successfully to SFTP Server
+2023-08-10 15:10:48,965 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 15:10:56,646 - INFO - User selected help command
+2023-08-10 15:11:03,519 - INFO - User selected list directory to list all file and folder
+2023-08-10 15:11:21,057 - INFO - User selected list directory to list all file and folder
+2023-08-10 15:42:29,297 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 15:42:30,275 - INFO - Authentication (password) successful!
+2023-08-10 15:42:30,284 - INFO - Connected Successfully to SFTP Server
+2023-08-10 15:42:30,460 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 15:44:46,024 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 15:44:46,466 - INFO - Authentication (password) successful!
+2023-08-10 15:44:46,478 - INFO - Connected Successfully to SFTP Server
+2023-08-10 15:44:46,686 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 15:51:48,815 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 15:51:49,373 - INFO - Authentication (password) successful!
+2023-08-10 15:51:49,378 - INFO - Connected Successfully to SFTP Server
+2023-08-10 15:51:49,606 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 17:18:39,856 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 17:18:40,247 - INFO - Authentication (password) successful!
+2023-08-10 17:18:40,247 - INFO - Connected Successfully to SFTP Server
+2023-08-10 17:18:40,485 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 17:20:10,292 - INFO - User selected multiple file command to download files
+2023-08-10 17:39:56,221 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 17:39:56,611 - INFO - Authentication (password) successful!
+2023-08-10 17:39:56,617 - INFO - Connected Successfully to SFTP Server
+2023-08-10 17:39:56,847 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 17:40:06,727 - INFO - User selected multiple files to the server
+2023-08-10 17:44:57,300 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 17:44:57,684 - INFO - Authentication (password) successful!
+2023-08-10 17:44:57,689 - INFO - Connected Successfully to SFTP Server
+2023-08-10 17:44:57,927 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 17:45:12,458 - INFO - User selected multiple files to the server
+2023-08-10 17:47:43,610 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 17:47:43,994 - INFO - Authentication (password) successful!
+2023-08-10 17:47:44,000 - INFO - Connected Successfully to SFTP Server
+2023-08-10 17:47:44,225 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 17:47:51,175 - INFO - User selected multiple files to the server
+2023-08-10 17:49:57,180 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 17:49:57,569 - INFO - Authentication (password) successful!
+2023-08-10 17:49:57,576 - INFO - Connected Successfully to SFTP Server
+2023-08-10 17:49:57,807 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 17:50:07,654 - INFO - User selected multiple files to the server
+2023-08-10 18:37:06,075 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 18:37:06,632 - INFO - Authentication (password) successful!
+2023-08-10 18:37:06,637 - INFO - Connected Successfully to SFTP Server
+2023-08-10 18:37:06,859 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 18:37:52,275 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 18:37:52,667 - INFO - Authentication (password) successful!
+2023-08-10 18:37:52,672 - INFO - Connected Successfully to SFTP Server
+2023-08-10 18:37:52,914 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 18:37:59,078 - INFO - User selected multiple files to the server
+2023-08-10 18:44:04,589 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 18:44:04,975 - INFO - Authentication (password) successful!
+2023-08-10 18:44:04,981 - INFO - Connected Successfully to SFTP Server
+2023-08-10 18:44:05,201 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 18:44:21,161 - INFO - User selected multiple files to the server
+2023-08-10 19:49:00,664 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-10 19:49:01,221 - INFO - Authentication (password) successful!
+2023-08-10 19:49:01,236 - INFO - Connected Successfully to SFTP Server
+2023-08-10 19:49:01,461 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-10 19:49:25,866 - INFO - User selected help command
+2023-08-11 21:37:33,313 - ERROR - Socket exception: An existing connection was forcibly closed by the remote host (10054)
+2023-08-12 15:51:05,465 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-12 15:51:06,413 - INFO - Authentication (password) successful!
+2023-08-12 15:51:06,415 - INFO - Connected Successfully to SFTP Server
+2023-08-12 15:51:07,297 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-12 15:53:03,204 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-12 15:53:03,588 - INFO - Authentication (password) successful!
+2023-08-12 15:53:03,594 - INFO - Connected Successfully to SFTP Server
+2023-08-12 15:53:03,820 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-13 14:32:06,510 - ERROR - Socket exception: An existing connection was forcibly closed by the remote host (10054)
+2023-08-13 14:32:06,523 - ERROR - Socket exception: An existing connection was forcibly closed by the remote host (10054)
+2023-08-14 17:38:20,331 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-14 17:38:20,837 - INFO - Authentication (password) successful!
+2023-08-14 17:38:20,837 - INFO - Connected Successfully to SFTP Server
+2023-08-14 17:38:20,987 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-14 17:38:30,060 - INFO - User selected delete directory on remote server
+2023-08-14 17:38:38,403 - INFO - Connection Error. Please connect again
+2023-08-14 17:38:38,419 - INFO - [chan 0] sftp session closed.
+2023-08-14 17:40:23,108 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-14 17:40:23,667 - INFO - Authentication (password) successful!
+2023-08-14 17:40:23,667 - INFO - Connected Successfully to SFTP Server
+2023-08-14 17:40:23,900 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-14 17:40:29,739 - INFO - User selected delete directory on remote server
+2023-08-14 17:40:58,025 - INFO - User selected delete directory on remote server
+2023-08-14 17:41:04,420 - INFO - Connection Error. Please connect again
+2023-08-14 17:41:04,436 - INFO - [chan 0] sftp session closed.
+2023-08-14 17:49:27,833 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-14 17:49:28,484 - INFO - Authentication (password) successful!
+2023-08-14 17:49:28,486 - INFO - Connected Successfully to SFTP Server
+2023-08-14 17:49:28,631 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-14 17:49:36,241 - INFO - User selected delete directory on remote server
+2023-08-14 17:51:29,550 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-14 17:51:29,927 - INFO - Authentication (password) successful!
+2023-08-14 17:51:29,927 - INFO - Connected Successfully to SFTP Server
+2023-08-14 17:51:30,162 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-14 17:51:40,025 - INFO - User selected delete directory on remote server
+2023-08-14 17:52:07,015 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-14 17:52:07,509 - INFO - Authentication (password) successful!
+2023-08-14 17:52:07,509 - INFO - Connected Successfully to SFTP Server
+2023-08-14 17:52:07,660 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-14 17:52:12,573 - INFO - User selected delete directory on remote server
+2023-08-14 17:53:45,302 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-14 17:53:45,801 - INFO - Authentication (password) successful!
+2023-08-14 17:53:45,801 - INFO - Connected Successfully to SFTP Server
+2023-08-14 17:53:45,938 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-14 17:54:01,263 - INFO - User selected Permissions on the remote server
+2023-08-14 18:02:07,619 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-14 18:02:08,274 - INFO - Authentication (password) successful!
+2023-08-14 18:02:08,274 - INFO - Connected Successfully to SFTP Server
+2023-08-14 18:02:08,439 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-14 18:02:27,487 - INFO - User selected get file to download a file from remote server to local server
+2023-08-14 19:43:16,528 - INFO - Connection Error. Please connect again
+2023-08-14 19:44:03,505 - INFO - Connection Error. Please connect again
+2023-08-14 19:44:58,243 - INFO - Connection Error. Please connect again
+2023-08-14 19:45:45,584 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-14 19:45:45,960 - INFO - Authentication (password) successful!
+2023-08-14 19:45:45,960 - INFO - Connected Successfully to SFTP Server
+2023-08-14 19:45:46,185 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-14 19:46:28,177 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-14 19:46:28,547 - INFO - Authentication (password) successful!
+2023-08-14 19:46:28,547 - INFO - Connected Successfully to SFTP Server
+2023-08-14 19:46:28,778 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-14 19:56:19,097 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-14 19:56:19,668 - INFO - Authentication (password) successful!
+2023-08-14 19:56:19,668 - INFO - Connected Successfully to SFTP Server
+2023-08-14 19:56:19,908 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-14 19:56:25,748 - INFO - User selected Permissions on the remote server
+2023-08-14 19:56:58,385 - INFO - User selected Permissions on the remote server
+2023-08-14 20:07:32,065 - INFO - Connecting to the host
+2023-08-14 20:07:32,199 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-14 20:07:32,574 - INFO - Authentication (password) successful!
+2023-08-14 20:07:32,574 - INFO - Connected Successfully to SFTP Server
+2023-08-14 20:07:32,810 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-14 20:07:37,999 - INFO - User selected upload file from local to remote server
+2023-08-14 20:23:48,334 - INFO - Connecting to the host
+2023-08-14 20:23:48,537 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-14 20:23:48,925 - INFO - Authentication (password) successful!
+2023-08-14 20:23:48,925 - INFO - Connected Successfully to SFTP Server
+2023-08-14 20:23:49,144 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-14 20:24:09,994 - INFO - User logged out of the server
+2023-08-14 20:24:12,317 - INFO - [chan 0] sftp session closed.
+2023-08-15 00:36:22,879 - INFO - Logged in with the save connection log file
+2023-08-15 00:55:06,224 - INFO - Connecting to the host
+2023-08-15 00:55:06,408 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-15 00:55:07,297 - INFO - Authentication (password) successful!
+2023-08-15 00:55:07,297 - INFO - Connected Successfully to SFTP Server
+2023-08-15 00:55:07,513 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-15 00:55:28,136 - INFO - User has used renames fname on the local machine on the current directory command
+2023-08-15 00:58:01,492 - INFO - User has used renames fname on the local machine on the current directory command
+2023-08-15 13:20:39,897 - INFO - Connecting to the host
+2023-08-15 13:20:40,196 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-15 13:20:41,077 - INFO - Authentication (password) successful!
+2023-08-15 13:20:41,077 - INFO - Connected Successfully to SFTP Server
+2023-08-15 13:20:41,318 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-15 13:21:11,958 - INFO - User selected help command
+2023-08-15 13:21:30,065 - INFO - User selected list directory to list all file and folder
+2023-08-15 13:22:28,365 - INFO - User selected get file to download a file from remote server to local server
+2023-08-15 13:23:36,889 - INFO - User logged out of the server
+2023-08-15 13:23:51,296 - INFO - [chan 0] sftp session closed.
+2023-08-15 13:24:03,528 - INFO - Connecting to the host
+2023-08-15 13:24:03,775 - INFO - Connected (version 2.0, client OpenSSH_8.9p1)
+2023-08-15 13:24:04,138 - INFO - Authentication (password) successful!
+2023-08-15 13:24:04,138 - INFO - Connected Successfully to SFTP Server
+2023-08-15 13:24:04,362 - INFO - [chan 0] Opened sftp connection (server version 3)
+2023-08-15 13:24:21,712 - INFO - User selected multiple file command to download files
+2023-08-15 13:27:21,688 - INFO - User selected list local machine directory
+2023-08-15 13:27:38,020 - INFO - User selected upload file from local to remote server
+2023-08-15 13:29:18,487 - INFO - User selected multiple files to the server
+2023-08-15 13:30:35,880 - INFO - User selected create directory on remote server
+2023-08-15 13:32:26,863 - INFO - User selected delete files on remote server
+2023-08-15 13:39:31,018 - INFO - User selected Permissions on the remote server
